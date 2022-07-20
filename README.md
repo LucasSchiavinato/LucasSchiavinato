@@ -38,3 +38,5 @@ Developing myself in HTML5, CSS3, JAVASCRIPT and etc.
 
 <p align="center"><img src="https://c.tenor.com/xSy4FAY4d1kAAAAd/link-zelda.gif" height="300" width="500"></p>
 
+![Snake animation](https://github.com/LucasSchiavinato/LucasSchiavinato/blob/output/github-contribution-grid-snake.svg)
+
