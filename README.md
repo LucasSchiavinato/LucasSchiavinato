@@ -23,7 +23,7 @@ Developing myself in HTML5, CSS3, JAVASCRIPT, BOOTSTRAP, SASS and JQUERY.
 
 ### 👀 Interests
 <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white"/> <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-<img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=Electron&logoColor=white"/> <img src="https://img.shields.io/badge/REACT-323330?style=for-the-badge&logo=REACT&logoColor=F61dafb"/> <img src="https://img.shields.io/badge/REACT-NATIVE-323330?style=for-the-badge&logo=REACT&logoColor=F61dafb"/> <img src="https://img.shields.io/badge/Firebase-323330?style=for-the-badge&logo=firebase&logoColor=Fffcb2c"/> <img src="https://img.shields.io/badge/MYSQL-323330?style=for-the-badge&logo=mysql&logoColor=Ff29221"/>
+<img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=Electron&logoColor=white"/> <img src="https://img.shields.io/badge/REACT-323330?style=for-the-badge&logo=REACT&logoColor=F61dafb"/> <img src="https://img.shields.io/badge/REACT NATIVE-323330?style=for-the-badge&logo=REACT&logoColor=F61dafb"/> <img src="https://img.shields.io/badge/Firebase-323330?style=for-the-badge&logo=firebase&logoColor=Fffcb2c"/> <img src="https://img.shields.io/badge/MYSQL-323330?style=for-the-badge&logo=mysql&logoColor=Ff29221"/>
 
 <hr>
 
