@@ -38,14 +38,6 @@ Developing myself in HTML5, CSS3, JAVASCRIPT, BOOTSTRAP, SASS and JQUERY.
 
 
 <br><br>
-
-### 👾Stats
-
-[![LucasSchiavinato's github stats](https://github-readme-stats.vercel.app/api?username=LucasSchiavinato&show_icons=true&theme=midnight-purple)](https://github.com/LucasSchiavinato/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSchiavinato)](https://github.com/LucasSchiavinato/github-readme-stats)
-
-[![HitCount](http://hits.dwyl.com/LucasSchiavinato/LucasSchiavinato.svg)](http://hits.dwyl.com/LucasSchiavinato/LucasSchiavinato)
-
+  
 <p align="center"><img src="https://c.tenor.com/xSy4FAY4d1kAAAAd/link-zelda.gif" height="300" width="500"></p>
 
